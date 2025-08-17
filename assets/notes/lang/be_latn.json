@@ -1,0 +1,43 @@
+{
+    "_comment": "Notes - Language File",
+    "_comment": "BELARUS - BELARUSIAN",
+
+    "_comment": "GUI - TITLES",
+    "notes.newNote": "Novaja natatka",
+    "notes.editNote": "Zmianić natatku",
+    "notes.selectNote": "Abrać natatku",
+
+    "_comment": "GUI - BUTTONS",
+    "notes.biome": "Bijom",
+    "notes.chunk": "Čank",
+    "notes.coordinates": "Kaardynaty",
+    "notes.copy": "Kapijavać",
+    "notes.delete": "Vydalić",
+    "notes.edit": "Zmianić",
+    "notes.global": "Глабальна",
+    "notes.insert": "Ustavić",
+    "notes.new": "Novaja",
+    "notes.off": "Vyklučyć",
+    "notes.on": "Uklučyć",
+    "notes.pin": "Zamacavać",
+    "notes.pinned": "Zamacavanyja",
+    "notes.save": "Zachavać",
+    "notes.select": "Abrać",
+    "notes.unpin": "Admacavać",
+
+    "_comment": "SCOPE",
+    "notes.scope.local": "Łakalna",
+    "notes.scope.global": "Hłabalna",
+    "notes.scope.remote": "Padalena",
+
+    "_comment": "CONTROLS - CATEGORIES",
+    "key.category.notes": "Natatki",
+
+    "_comment": "CONTROLS - KEYBINDS",
+    "key.openNotes": "Adkryć natatki",
+
+    "_comment": "STRINGS",
+    "notes.confirmDelete": "Vydalić hetuju natatku?",
+    "notes.lastModified": "Apošniaja źmiena",
+    "notes.saveAs": "Budzie zachavana jak %s"
+}

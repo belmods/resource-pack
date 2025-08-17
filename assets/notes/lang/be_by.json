@@ -1,0 +1,43 @@
+{
+    "_comment": "Notes - Language File",
+    "_comment": "BELARUS - BELARUSIAN",
+
+    "_comment": "GUI - TITLES",
+    "notes.newNote": "Новая нататка",
+    "notes.editNote": "Змяніць нататку",
+    "notes.selectNote": "Абраць нататку",
+
+    "_comment": "GUI - BUTTONS",
+    "notes.biome": "Біём",
+    "notes.chunk": "Чанк",
+    "notes.coordinates": "Каардынаты",
+    "notes.copy": "Капіяваць",
+    "notes.delete": "Выдаліць",
+    "notes.edit": "Змяніць",
+    "notes.global": "Глабальна",
+    "notes.insert": "Уставіць",
+    "notes.new": "Новая",
+    "notes.off": "Выключыць",
+    "notes.on": "Уключыць",
+    "notes.pin": "Замацаваць",
+    "notes.pinned": "Замацаваныя",
+    "notes.save": "Захаваць",
+    "notes.select": "Абраць",
+    "notes.unpin": "Адмацаваць",
+
+    "_comment": "SCOPE",
+    "notes.scope.local": "Лакальна",
+    "notes.scope.global": "Глабальна",
+    "notes.scope.remote": "Падалена",
+
+    "_comment": "CONTROLS - CATEGORIES",
+    "key.category.notes": "Нататкі",
+
+    "_comment": "CONTROLS - KEYBINDS",
+    "key.openNotes": "Адкрыць нататкі",
+
+    "_comment": "STRINGS",
+    "notes.confirmDelete": "Выдаліць гэтую нататку?",
+    "notes.lastModified": "Апошняя змена",
+    "notes.saveAs": "Будзе захавана як %s"
+}

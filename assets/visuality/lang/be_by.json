@@ -1,0 +1,20 @@
+{
+    "modmenu.descriptionTranslation.visuality": "Візуальныя паляпшэнні за кошт дадання мноства новых часціц.",
+    "config.visuality.title": "Налады Visuality",
+    "config.visuality.general": "Агульныя",
+    "config.visuality.option.slime": "Уключаны слізевыя шарыкі",
+    "config.visuality.option.slime.color": "Колер слізевых шарыкаў",
+    "config.visuality.option.charge": "Часціцы зарадаў уключаны",
+    "config.visuality.option.sparkle": "Часціцы іскраў уключаны",
+    "config.visuality.option.soul": "Часціцы душы уключаны",
+    "config.visuality.option.waterCircle": "Водныя кругі уключаны",
+    "config.visuality.option.waterCircle.colored": "Кругі на вадзе каляровыя",
+    "config.visuality.option.waterCircle.density": "Шчыльнасць кругоў на вадзе",
+    "config.visuality.option.waterCircle.radius": "Радыус кругоў на вадзе",
+    "config.visuality.option.hitParticles": "Часціцы ўдару уключаны",
+    "config.visuality.option.hitParticles.entries": "Спіс часціц ўдару",
+    "config.visuality.option.shinyArmor": "Бліскучая браня уключана",
+    "config.visuality.option.shinyArmor.entries": "Спіс бліскучай бранi",
+    "config.visuality.option.shinyBlocks": "Бліскучыя блокі уключаны",
+    "config.visuality.option.shinyBlocks.entries": "Спіс бліскучых блокаў"
+}
